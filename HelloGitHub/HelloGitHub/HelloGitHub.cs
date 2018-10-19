@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace HelloGitHub
 {
-    public partial class Form1 : Form
+    public partial class HelloGitHub : Form
     {
-        public Form1()
+        public HelloGitHub()
         {
             InitializeComponent();
         }
